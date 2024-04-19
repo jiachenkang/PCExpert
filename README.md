@@ -1,5 +1,5 @@
 # PCExpert
-> [**Point Clouds Are Specialized Images: A Knowledge Transfer Approach for 3D Understanding**](https://https://arxiv.org/abs/2307.15569) <br>
+> [**Point Clouds Are Specialized Images: A Knowledge Transfer Approach for 3D Understanding**](https://arxiv.org/abs/2307.15569) <br>
 > Jiachen Kang, Wenjing Jia, Xiangjian He, and Kin Man Lam <br>
 
 
