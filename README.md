@@ -58,4 +58,4 @@ Our code is released under the MIT License.
 
 ## Acknowledgements
 This repository is built upon [VLMo](https://github.com/microsoft/unilm/tree/master/vlmo), [CLIP](https://github.com/openai/CLIP), 
-[ACT](https://github.com/RunpeiDong/ACT), and [Point-BERT](https://github.com/lulutang0608/Point-BERT).
+[PointCLIP](https://github.com/ZrrSkywalker/PointCLIP), and [Point-BERT](https://github.com/lulutang0608/Point-BERT).
